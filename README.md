@@ -10,13 +10,13 @@ A particle-theme template as a landing page for your portfolio.
   - Fork and Clone the repository
 
     ```
-    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
+    $ git clone https://github.com/MUGDSC/Portfolio_website.git
     ```
  
   - Go inside the main repository
   
     ```
-    $ cd ParticleGround-Portfolio
+    $ cd Portfolio_website
     ```
     
   - Modify `index.html` to change the names and links to point at your pages.

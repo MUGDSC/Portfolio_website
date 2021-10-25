@@ -103,6 +103,13 @@ p {
   animation: shake 0.8s;
   animation-iteration-count: infinite;
 }
+  
+ .div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  box-sizing: border-box;
+}
 
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }

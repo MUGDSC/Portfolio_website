@@ -88,6 +88,17 @@ p {
   font-family: 'Roboto', sans-serif;
 }
 
+.p1 {
+  font-family: "Lucida Handwriting", "Lucida Console";
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+
 @media only screen and (max-width: 1000px) {
   h1 {
     font-size: 15px;
